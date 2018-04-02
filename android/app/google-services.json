@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "837716942455",
+    "firebase_url": "https://core-veld-132423.firebaseio.com",
+    "project_id": "core-veld-132423",
+    "storage_bucket": "core-veld-132423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837716942455:android:8e7872584f1e8e63",
+        "android_client_info": {
+          "package_name": "com.reactfirebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837716942455-dadqop8pvbparlmk5ff4vk1cqvljorkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx8Gn6fNaPvGHPjVxcg_Xb0RB25jAYvfs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
